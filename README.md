@@ -1,4 +1,4 @@
-I am a full-stack software engineer. For the past 10 years I have been at the forefront of digital evolution, combining software, audio and multimedia, but my true passion is building web applications. 
+###I am a full-stack software engineer. For the past 10 years I have been at the forefront of digital evolution, combining software, audio and multimedia, but my true passion is building web applications. 
 
 Utilizing my design background, I build visually engaging applications. My tools are Adobe Creative Suite, HTML, CSS, Javascript, React. 
 
