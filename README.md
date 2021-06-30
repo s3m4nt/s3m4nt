@@ -4,3 +4,6 @@ Utilizing my design background, I build visually engaging applications. My tools
 
 I have a team-oriented attitude, a passion for technology, and seek a role at a company where I can continue to learn and thrive as a developer.
 
+---
+
+### My hobbies include: 
