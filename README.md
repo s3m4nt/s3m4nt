@@ -8,6 +8,6 @@ I have a team-oriented attitude, a passion for technology, and seek a role at a 
 
 ### My hobbies include: 
 
-🚀 <br />
-🐶 <br />
-🎶 <br />
+🚀 Tracking the ISS<br />
+🐶 My dog<br />
+🎶 Guitars and drums<br />
